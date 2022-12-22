@@ -23,3 +23,12 @@
     width: 50%;
     float: right;
 }
+
+.explore-button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 5px;
+    color: azure;
+}
