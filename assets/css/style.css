@@ -17,11 +17,33 @@
 
 .header-title{
     margin-bottom: 50px;
+    border-left: 5px solid red;
+   padding: 10px;
 }
+
+.header-title h2{
+    font-size: 40px;
+    font-style: bold;
+}
+
+.left-section p{
+    font-size: 20px;
+}
+
+.sub-title{
+    color: #5F0A87;
+}
+
+
 
 .right-section{
     width: 50%;
     float: right;
+}
+
+.right-section img{
+    border-radius: 10px;
+    margin: 20px;
 }
 
 .explore-button{
